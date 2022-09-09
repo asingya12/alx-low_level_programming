@@ -5,11 +5,12 @@
 /**
   * main - Entry point
   *
-  * Description: print value of n
+  * Description: print value of n statu; zero, positive or negative
   *
   * Return: Always 0 (Success)
   */
 /* betty style doc for function main goes there */
+
 int main(void)
 {
 	int n, digit:
