@@ -3,7 +3,8 @@
 /**
  * main - Entry point
  *
- * Description: Write a program that prints all possible different combinations of two digits
+ * Description: Write a program that prints all possible
+ * different combinations of two digits
  * Return: 0
  */
 
@@ -38,4 +39,3 @@ int main(void)
 
 	return (0);
 }
-
