@@ -1,3 +1,8 @@
 #!/bin/bash
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 -c *.c
+
+#a script that creates a static library
+#called liball.a from all the .c files
+#that are in the current directory
+
+gcc -c *.c
 ar -rc liball.a *.o
