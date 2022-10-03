@@ -1,11 +1,11 @@
-#include <stdlib.h>
 #include <stdio.h>
+#include <stdlib.h>
 
 /**
- *main - function to print number of arguments passed
+ * main - function to print number of arguments passed
  *
- *@argc: counts the arguments
- *@argv: arguments
+ * @argc: counts the arguments
+ * @argv: arguments
  *
  * Return: 0(success exit)
  */
